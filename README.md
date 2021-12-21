@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ogrych
-- 👀 I’m interested in Java programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: egor5studying@gmail.com
 
 <!---
 Ogrych/Ogrych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
